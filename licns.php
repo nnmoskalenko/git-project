@@ -15,5 +15,7 @@ gd
 fg
  ddfgdgdgjdfghd fdgdg dffidfigdgjg o 
 
+new string
+
 hrhgfhrh
 3535353
